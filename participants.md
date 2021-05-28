@@ -12,6 +12,7 @@ A list of participants in CSC 195
 * Eve B. Lyons-Berg
 * Shaun S. Mataire
 * Alexander C. Mitchell
+* Kondai Aditya
 * Khoa Nguyen
 * Linda Oyolu
 * Samuel A. Rebelsky
@@ -22,3 +23,5 @@ A list of participants in CSC 195
 * Noah D. Schlager
 * Elias Mulhall
 * Yazan A. Kittaneh
+
+
